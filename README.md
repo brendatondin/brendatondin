@@ -1,5 +1,5 @@
 <h1 align="center">Hi There 👋, I'm Brenda Tondin</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate Web Designer from Brazil</h3>
 
 <div align="center">
   <a href="https://github.com/brendatondin">
